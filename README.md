@@ -1,47 +1,55 @@
-# 👋 ¡Hola! Soy Débora Ingrid
+# ¡Hola! Soy Ingrid Débora Cerda Letelier 👋
 
-Bienvenido a mi perfil de GitHub. Soy **Desarrolladora de Software** enfocada en crear soluciones web funcionales, interactivas y bien estructuradas. Me apasiona el aprendizaje continuo y transformar lógica compleja en código limpio y eficiente.
+Me considero una profesional orientada a la resolución de problemas, con una sólida trayectoria en **Servicio al Cliente, Gestión de Plataformas (CRM/Salesforce) y Soporte de Aplicaciones Bancarias**, actualmente expandiendo mis horizontes hacia el **Desarrollo de Software Backend y Frontend**. 
 
----
-
-## 🛠️ Habilidades y Tecnologías
-
-### 💻 Desarrollo Backend & Lógica
-* **Java:** Creación de aplicaciones robustas, lógica estructurada y programación orientada a objetos.
-
-### 🎨 Desarrollo Frontend
-* **HTML5 & CSS3:** Maquetación web sólida, diseño responsivo y estilos modernos.
-* **JavaScript:** Creación de componentes interactivos y dinámicos para el usuario.
-
-### ⚙️ Herramientas & Flujo de Trabajo
-* **Git & GitHub:** Control de versiones, gestión de repositorios locales y remotos.
+Mi experiencia en la primera línea de soporte tecnológico me otorga una perspectiva única: entiendo las necesidades reales del usuario final y sé cómo transformarlas en código limpio, seguro y eficiente.
 
 ---
 
-## 📂 Mis Proyectos en GitHub
+### 🛠️ Habilidades Técnicas
 
-Aquí tienes una muestra de los proyectos en los que he estado trabajando y que puedes encontrar en mis repositorios públicos:
-
-### 🚀 Destacados recientes
-
-* **PORTAFOLIO:** Mi espacio personal para recopilar y demostrar mi evolución técnica y los proyectos clave que he construido.
-* **PROYECTO-MODULO-6 & proyecto-4 (Java):** Proyectos enfocados en la arquitectura backend, aplicando principios de programación en Java y resolución de problemas lógicos.
-
-### 💳 Serie de Proyectos: Wallets & Aplicaciones Financieras
-He desarrollado una línea de aprendizaje continuo enfocada en la simulación de billeteras virtuales, mejorando incrementalmente el diseño y la interactividad:
-* **mi-super-wallet:** Aplicación web avanzada para la gestión visual de finanzas utilizando estructuras HTML claras.
-* **mi-otra-wallet-con-css-y-javascript:** Evolución de mis proyectos financieros integrando interactividad real con JavaScript y estilizado avanzado mediante CSS.
-* **mi-wallet-basica-:** Mis primeros pasos estructurando la interfaz básica y los cimientos de una billetera digital.
-
-### 🌱 Proyectos Iniciales y Fundacionales
-* **repositorio-clonado-:** Práctica clave de control de versiones y sincronización fluida de repositorios desde mi entorno de desarrollo local (PC) hacia la nube.
-* **MODULO2-MIPRIMER-2:** Uno de mis primeros proyectos en la plataforma, enfocado en dominar las bases de la maquetación con HTML.
+- **Lenguajes de Programación:** Java (Intermedio-Avanzado), JavaScript (Básico-Intermedio)
+- **Desarrollo Front-End:** HTML5, CSS3, Maquetación Web Dinámica
+- **Herramientas y Entornos:** Git, GitHub, Salesforce, Sistemas CRM
+- **Otras Competencias:** Microsoft Excel (Nivel Intermedio), Gestión Documental, Auditoría de Calidad
 
 ---
 
-## 📫 Conéctate conmigo
+### 📂 Proyectos Destacados (GitHub)
 
-Si estás interesado en colaborar en un proyecto, tienes alguna pregunta o simplemente quieres hablar de tecnología, no dudes en explorar mis repositorios o contactarme a través de esta plataforma.
+Mi evolución en el desarrollo de software se refleja en mis proyectos públicos, organizados por áreas de especialización:
 
-¡Gracias por visitar mi portafolio!
+#### ☕ Desarrollo Backend (Java)
+*   **[PROYECTO-MODULO-6](https://github.com)**: Proyecto avanzado desarrollado en Java, enfocado en lógica de programación estructurada y buenas prácticas.
+*   **[proyecto-4](https://github.com)**: Aplicación lógica en Java orientada a la resolución de problemas y manejo de estructuras de datos.
 
+#### 💳 Especialización: E-Wallets y Aplicaciones Financieras (HTML, CSS & JS)
+*   **[mi-super-wallet](https://github.com)**: Interfaz dinámica para una billetera digital interactiva.
+*   **[mi-otra-wallet-con-css-y-javascript](https://github.com)**: Iteración de diseño que integra estilos modernos y funciones dinámicas utilizando JavaScript.
+*   **[mi-wallet-basica-](https://github.com)**: Mis primeros pasos maquetando la estructura esencial de una aplicación financiera digital.
+
+#### 🏗️ Fundamentos y Primeras Prácticas
+*   **[PORTAFOLIO](https://github.com)**: Repositorio central de organización de trabajos.
+*   **[repositorio-clonado-](https://github.com)**: Prácticas de control de versiones locales y flujos de trabajo con Git desde PC.
+*   **[MODULO2-MIPRIMER-2](https://github.com)**: Bloques iniciales de construcción web empleando HTML puro.
+
+---
+
+### 💼 Experiencia Profesional Destacada
+
+*   **BancoEstado Contacto 24 Horas S.A (2024 - 2025)** | *Ejecutiva de Call Center / Soporte App*
+    *   Soporte técnico directo de la App móvil del banco, desbloqueo de productos y gestión de incidencias críticas por fraude mediante Salesforce.
+*   **Atento Chile (Jumbo, Santa Isabel, Gasco) (2021 - 2023)** | *Ejecutiva de Servicio al Cliente*
+    *   Manejo de sistemas CRM avanzados para el control de stock, gestión de pedidos nacionales e ingreso de requerimientos.
+*   **Entel Call Center S.A para DUOC UC (2019 - 2020)** | *Ejecutiva Back Office*
+    *   Auditoría técnica y validación documental de postulaciones a becas y procesos de admisión.
+*   **CallSouth (2018 - 2019)** | *Analista de Calidad*
+    *   Auditoría de llamadas, análisis de métricas y elaboración de informes de retroalimentación basados en protocolos de cumplimiento.
+
+---
+
+### 📫 Contacto y Conectividad
+
+- 📍 La Cisterna, Región Metropolitana, Chile
+- 📧 [cerdaletelier.ingrid@gmail.com]
+- 💼 Disponibilidad horaria completa e inmediata para proyectos de desarrollo o soporte TI.
